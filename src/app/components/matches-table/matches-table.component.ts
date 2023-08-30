@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
-import { T } from 'src/app/data folder/data';
 import { MatchService } from 'src/app/services/match.service';
 import { JwPaginationModule } from 'jw-angular-pagination';
 
